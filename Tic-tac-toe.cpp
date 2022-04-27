@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdlib>
-#include <ctime>
+#include <ctime
 using namespace std;
 
 void nextMove(char[][3], int&, int&);
