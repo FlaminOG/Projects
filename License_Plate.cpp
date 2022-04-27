@@ -1,7 +1,3 @@
-// Author: Josh Nyamsi
-// Filename: Part_1.cpp
-// Description: Josh’s Homework Assignment
-
 #include <iostream>
 #include <string>
 using namespace std;
